@@ -1,3 +1,5 @@
+[![Tests](https://github.com/LikDan/KafkaDecoder/actions/workflows/tests.yaml/badge.svg)](https://github.com/LikDan/KafkaDecoder/actions/workflows/tests.yaml)
+
 # KafkaDecoder
 
 Decodes kafka message to struct using JSON and reflection.
